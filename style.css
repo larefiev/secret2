@@ -1,0 +1,21 @@
+.suda{
+    opacity: 1;
+    cursor: default;
+}
+.bebra{
+    position: absolute;
+    bottom: 0;
+    opacity: 0;
+    cursor: default;
+    
+}
+.secret{
+    position: absolute;
+    bottom: 0;
+    opacity: 0;
+    cursor: default;
+    font-size: 100px;
+}
+.cat{
+   display: none;
+}
